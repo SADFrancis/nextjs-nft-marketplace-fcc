@@ -8,7 +8,7 @@ Be sure to check it out on [Goerli Etherscan](https://goerli.etherscan.io/0xd888
 
 On the website, you can buy, sell, and update listings. The website is currently hosted on Heroku at [this link](https://sad-nftmarketplace.herokuapp.com/).
 
-The Github repository for the backend smart contract is located at [this link](https://github.com/SADFrancis/hardhat-nft-marketplace-fcc).
+The Github repository for the [backend](https://github.com/SADFrancis/hardhat-nft-marketplace-fcc).
 
-The Github repository for the Graph tools for indexing events is located at [this link](https://github.com/SADFrancis/graph-nft-marketplace-fcc).
+The Github repository for the [Graph Indexing tools](https://github.com/SADFrancis/graph-nft-marketplace-fcc).
 
